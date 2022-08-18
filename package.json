@@ -1,0 +1,16 @@
+{
+  "name": "github-repos-search-trial-pkg-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "github-repos-search-trial-pkg": "^1.1.0"
+  }
+}
